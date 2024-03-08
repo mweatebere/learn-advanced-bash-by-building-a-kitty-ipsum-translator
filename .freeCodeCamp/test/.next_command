@@ -31,3 +31,8 @@ echo > stdout.txt
 bad_command
 echo bad_command > stderr.txt
 bad_command > stderr.txt
+stderr 2> stderr.txt
+__vsc_prompt_cmd_original
+stderr 2> stderr.txt
+bad_command > stderr.txt
+bad_command 2> stderr.txt
