@@ -49,3 +49,4 @@ echo $NAME
 echo Alvin
 echo $NAME
 cat
+cat name.txt
