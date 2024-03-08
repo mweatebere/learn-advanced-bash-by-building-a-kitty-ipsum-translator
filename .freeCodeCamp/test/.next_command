@@ -95,3 +95,5 @@ wc kitty_ipsum_1.txt
 wc kitty_ipsum_1.txt < cat
 cat kitty_ipsum.txt
 cat kitty_ipsum_1.txt
+wc kitty_ipsum_1.txt < cat
+wc < kitty_ipsum_1.txt
