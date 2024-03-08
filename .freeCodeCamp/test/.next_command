@@ -81,3 +81,4 @@ cat < name.txt
 echo Al
 wc kitty_ipsum_1.txt
 man wc
+wc kitty_ipsum_1.txt -l
