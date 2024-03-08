@@ -107,3 +107,11 @@ cat kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
 echo -e "\nNumber of chracters:" >> kitty_info.txt
 echo -e "\nNumber of characters:" >> kitty_info.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt -c >> wc >> kitty_info.txt
+cat kitty_ipsum_1.txt -m >> wc >> kitty_info.txt
+wc -m kitty_ipsum_1.txt < cat
+wc -m < kitty_ipsum.txt
+wc -m < kitty_ipsum_1.txt
+wc -m < kitty_ipsum_1.txt >> kitty_info.txt
