@@ -60,3 +60,4 @@ echo $NAME
 echo Alvin
 TOUCH SCRIPT.SH
 touch script.sh
+chmod +x script.sh
