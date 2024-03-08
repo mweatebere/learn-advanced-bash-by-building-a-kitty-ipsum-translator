@@ -52,3 +52,6 @@ cat
 cat name.txt
 cat name.txt < name.txt
 cat < name.txt
+cat ALVIN
+echo Alvin
+echo Alvin
