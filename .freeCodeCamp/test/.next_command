@@ -29,3 +29,5 @@ echo > stdout.txt
 echo > stdout.txt
 > stdout.txt
 bad_command
+echo bad_command > stderr.txt
+bad_command > stderr.txt
