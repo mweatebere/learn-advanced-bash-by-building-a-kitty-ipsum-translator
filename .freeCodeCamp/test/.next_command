@@ -152,3 +152,5 @@ __vsc_prompt_cmd_original
 sed 's/freecodcCamp/f233C0d3C@mp/' name.txt
 sed 's/freecodcamp/f233C0d3C@mp/' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/' name.txt
+sed 's/freecodecamp/f233C0d3C@mp/' name.txt
+sed 's/freecodecamp/f233C0d3C@mp/i' name.txt
