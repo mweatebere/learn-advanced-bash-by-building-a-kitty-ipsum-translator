@@ -142,3 +142,6 @@ man grep
 __vsc_prompt_cmd_original
 cat < name.txt
 cat name.txt
+sed 's/2/r' name.txt
+sed 's/r/2' name.txt
+sed 's/r/2/' name.txt
