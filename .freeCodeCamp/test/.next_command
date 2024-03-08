@@ -228,3 +228,5 @@ grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 __vsc_prompt_cmd_original
 grep -n 'cat[a-z]*' kitty_ipsum_2.txt
+touch trannslate.sh
+touch translate.sh
