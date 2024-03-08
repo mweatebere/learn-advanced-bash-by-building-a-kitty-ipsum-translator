@@ -28,3 +28,4 @@ echo hello bash > stdout.txt
 echo > stdout.txt
 echo > stdout.txt
 > stdout.txt
+bad_command
