@@ -55,3 +55,8 @@ cat < name.txt
 cat ALVIN
 echo Alvin
 echo Alvin
+echo $NAME
+echo $NAME
+echo Alvin
+TOUCH SCRIPT.SH
+touch script.sh
