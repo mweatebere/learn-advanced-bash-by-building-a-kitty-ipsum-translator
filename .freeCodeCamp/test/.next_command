@@ -121,3 +121,5 @@ man grep
 man grep
 __vsc_prompt_cmd_original
 grep --colour 'meow' kitty_ipsum_1.txt
+man grep
+grep --colour -n 'meow' kitty_ipsum_1.txt
