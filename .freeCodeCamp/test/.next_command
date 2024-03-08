@@ -67,3 +67,5 @@ echo Muchelle
 echo Muchelle
 echo Muchelle
 echo Muchelle
+name.txt
+./script.sh < name.txt
