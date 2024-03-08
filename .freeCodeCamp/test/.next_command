@@ -162,3 +162,5 @@ grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_1.txt
 man sed
 __vsc_prompt_cmd_original
+grep -n -E 'meow[a-z]*' kitty_ipsum_1.txt
+grep -n 'meow[a-z]*' kitty_ipsum_1.txt
